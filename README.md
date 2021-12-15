@@ -1,7 +1,7 @@
 # Tableau_Laptop_sales_analysis
 
-# Business Case Objective:
-a)One of the leading retail chains in london having more than 15 stores which sells Laptops and accessories.
+# Business Case Objective:<br/>
+a)One of the leading retail chains in london having more than 15 stores which sells Laptops and accessories.<br/>
 b)The Company would like to define the product strategy and pricing policies that will maximize company projected revenues in next coming year.
 
 # Dataset: 
