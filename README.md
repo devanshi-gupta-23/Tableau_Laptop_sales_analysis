@@ -15,7 +15,7 @@ I have attched the data set that is provided to me and 1 pdf that contains all t
 
 # Link Of Project:
 https://public.tableau.com/app/profile/devanshi.gupta6884/viz/laptopanalysis/Q10
-It's link of my Tableau Public profile where i have uploaded this project.
+It's a link of my Tableau Public profile where i have uploaded this project.
 
 # Summary:
 Firstly i performed all the 9 tasks then in the last created i've a storyboard that defines the product strategy and pricing policies that will maximize company projected revenues in next coming year
